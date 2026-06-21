@@ -5,8 +5,8 @@
   - Master: Huazhong University of Science and Technology | Cyberspace Security
   - Bachelor: Shandong Agricultural University | Computer Science and Technology
 - 💻 Tech Stack
-  Languages: C/C++, Java, Python
-  Fields: Network Security, Backend Development, Enbodied AI Safety
+  - Languages: C/C++, Java, Python
+  - Fields: Network Security, Backend Development, Enbodied AI Safety
 
 <!---
 pickleeeeee/pickleeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
